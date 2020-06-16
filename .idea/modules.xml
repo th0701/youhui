@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/you-product/you-product.iml" filepath="$PROJECT_DIR$/you-product/you-product.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/youhui.iml" filepath="$PROJECT_DIR$/.idea/youhui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/youhui-coupon/youhui-coupon.iml" filepath="$PROJECT_DIR$/youhui-coupon/youhui-coupon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/youhui-member/youhui-member.iml" filepath="$PROJECT_DIR$/youhui-member/youhui-member.iml" />
+      <module fileurl="file://$PROJECT_DIR$/youhui-order/youhui-order.iml" filepath="$PROJECT_DIR$/youhui-order/youhui-order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/youhui-ware/youhui-ware.iml" filepath="$PROJECT_DIR$/youhui-ware/youhui-ware.iml" />
+    </modules>
+  </component>
+</project>
