@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="you-product" />
+        <module name="youhui-coupon" />
+        <module name="youhui-member" />
+        <module name="youhui-order" />
+        <module name="youhui-ware" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="you-product" target="1.8" />
+      <module name="youhui" target="1.5" />
+      <module name="youhui-coupon" target="1.8" />
+      <module name="youhui-member" target="1.8" />
+      <module name="youhui-order" target="1.8" />
+      <module name="youhui-ware" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
