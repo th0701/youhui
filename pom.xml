@@ -11,10 +11,14 @@
     <packaging>pom</packaging>
 
     <modules>
-        <module>you-product</module>
+
+        <module>renren-fast</module>
+        <module>renren-generator</module>
+        <module>youhui-order</module>
+        <module>youhui-common</module>
+        <module>youhui-product</module>
         <module>youhui-coupon</module>
         <module>youhui-member</module>
-        <module>youhui-order</module>
         <module>youhui-ware</module>
     </modules>
 
