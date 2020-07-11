@@ -6,19 +6,27 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="you-product" />
+        <module name="renren-fast" />
+        <module name="renren-generator" />
+        <module name="youhui-common" />
         <module name="youhui-coupon" />
         <module name="youhui-member" />
         <module name="youhui-order" />
+        <module name="youhui-product" />
         <module name="youhui-ware" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="you-product" target="1.8" />
+      <module name="main" target="6" />
+      <module name="renren-fast" target="1.8" />
+      <module name="renren-fast (1)" target="1.8" />
+      <module name="renren-generator" target="1.8" />
       <module name="youhui" target="1.5" />
+      <module name="youhui-common" target="1.5" />
       <module name="youhui-coupon" target="1.8" />
       <module name="youhui-member" target="1.8" />
       <module name="youhui-order" target="1.8" />
+      <module name="youhui-product" target="1.8" />
       <module name="youhui-ware" target="1.8" />
     </bytecodeTargetLevel>
   </component>
